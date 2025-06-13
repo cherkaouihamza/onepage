@@ -1,8 +1,8 @@
 import sqlite3
 from datetime import datetime
 from pathlib import Path
-import comtypes.client
-import comtypes
+#import comtypes.client
+#import comtypes
 
 DB_PATH = Path("ppt_uploads.db")
 
